@@ -21,7 +21,7 @@ Die App ist öffentlich in den App Stores verfügbar und wird aktiv genutzt.
 - 📱 **Release:** iOS & Android
 
 ➡️ [Repository](https://github.com/PhilippW22/zusammenwachsen_app)  
-📲 [iOS App Store](https://apps.apple.com/app/zusammenwachsen-app/id6749553571) · [Google Play Store](https://play.google.com/store/apps/details?id=com.zusammenwachsen.app)
+📲 [iOS App Store](https://apps.apple.com/de/app/zusammenwachsen-app/id6749553571) · [Google Play Store](https://play.google.com/store/apps/details?id=com.zusammenwachsen.app)
 
 ---
 
