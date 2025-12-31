@@ -48,7 +48,7 @@ Ein Workshop-Projekt mit Angular und TypeScript.
 Diente mir zum Einstieg in Angular, Komponentenstruktur und Formularlogik.
 
 ➡️ [Repository](https://github.com/PhilippW22/hotel-app)  
-🌍 [Live Demo](https://philippw22.github.io/hotel-app/bookings)
+🌍 [Live Demo](https://philippw22.github.io/hotel-app/##)
 
 ---
 
