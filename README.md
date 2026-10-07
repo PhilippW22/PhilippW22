@@ -37,7 +37,7 @@ Integrationen
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Node.js
 
-➡️ [Repository]() 
+➡️ [Repository](https://github.com/PhilippW22/carpe-deal) 
 🌍 [Live ansehen](https://www.carpedeal.de)
 
 ---
